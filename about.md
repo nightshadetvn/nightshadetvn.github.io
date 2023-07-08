@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+hi, i'm max, an cyber safety student from poland. 
 
-### More Information
+### more info
 
-A place to include any other types of information that you'd like to include about yourself.
+📖 - i code mostly in python, but i can adjust to needs 
+✨ - proud user of arch linux
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+📨 email - [mmax3163@gmail.com](mailto:mmax3163@gmail.com)
+Ⓜ️ mastodon - [@rudy3@infosec.exchange](https://infosec.exchange/@rudy3)
